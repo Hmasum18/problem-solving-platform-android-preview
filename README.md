@@ -28,5 +28,6 @@ Our App is based on Single Activity and MVVM architecture and repositories patte
 
 <img src="https://github.com/Hmasum18/problem-solving-platform-android-preview/blob/master/readMe_assets/images/mvvm.png" width="700" />
 
+
 # Remote data source:
 Firebase firestore and Our own server(Nodejs + Postgresql)
