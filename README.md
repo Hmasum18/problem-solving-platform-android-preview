@@ -22,7 +22,7 @@ Our App is based on Single Activity and MVVM architecture and repositories patte
 
 ### <u>Current Navigation graph</u>  
 
-<img src="https://github.com/Hmasum18/problem-solving-platform-android-preview/blob/master/readMe_assets/images/navigation_graph.PNG" width="700" />
+<img src="https://github.com/Hmasum18/problem-solving-platform-android-preview/blob/master/readMe_assets/images/navigation_graph.png" width="700" />
 
 ### <u>Architecture Diagram</u>
 
