@@ -22,11 +22,11 @@ Our App is based on Single Activity and MVVM architecture and repositories patte
 
 ### <u>Current Navigation graph</u>  
 
-<img src="readMe_assets/images/navigation_graph.PNG" width="700" />
+![Image](./readMe_assets/images/navigation_graph.PNG)
 
 ### <u>Architecture Diagram</u>
 
-<img src="readMe_assets/images/mvvm.PNG" width="700" />
+![Image](./readMe_assets/images/mvvm.PNG)
 
 # Remote data source:
 Firebase firestore and Our own server(Nodejs + Postgresql)
